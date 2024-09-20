@@ -1,0 +1,4 @@
+# requirements.txt
+subprocess
+os
+sys
